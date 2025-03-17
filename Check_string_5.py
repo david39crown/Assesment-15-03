@@ -20,3 +20,6 @@ text = "The quick brown fox jumps over the lazy dog"
 
 
 print(is_pangram(text))  
+
+
+https://github.com/david39crown/Assesment-15-03
